@@ -1,0 +1,95 @@
+.fondo{ height: 800px;
+  border-radius: 0% 
+    top: 0px;
+     border:solid
+#000000 5px width: 100%
+  height: 600%;
+}
+.nombre{
+ position: absolute;
+ top: 80px;
+ left:600px;
+ height: 200px;
+ font-family: Copperplate, Papyrus, fantasy, monospace;
+ transition: transform .4s;
+ opacity: 0.9;
+ transition: transform .4s;
+ opacity: 0.9;
+ text-shadow: 2px 2px #000000;
+   animation-name: ulidos;
+  animation-duration:2s;
+  animation-iteration-count: infinite; 
+  font-size: 30px;
+   
+} 
+@keyframes ulidos{
+ 33%{color:#FFB300 ;  } 
+ 66%{color: #9CCC65;  }
+ 99%{color:#FFEB3B  ;  }
+
+  
+}
+.linea{
+
+  position: absolute;
+top: 100px;
+  left:10px;
+  height: 400px;
+  background-image: url(fotos/li.png);
+   width: 1320px;
+  animation-name:example;
+    animation-duration: 5500ms;
+    animation-iteration-count: infinite;
+    background-size:cover;
+    
+}
+
+@keyframes example {
+  50%   {background:url(fotos/li.png);background-size:cover;}
+  50%  {background:url(fotos/li4.png);background-size:cover;}
+ 
+  
+}
+
+
+.im{
+	position: absolute;
+ top: 600px;
+ left:20px;
+ border: 10px solid transparent;
+   border-style: dotted;
+   border-color:#17202A;
+}
+.Comentario{
+
+ position: absolute;
+top: 800px;
+  left:900px;
+  height: 200px;
+  font-family: Copperplate, Papyrus, fantasy, monospace;
+  height:500%;
+   width:25%;
+  
+}
+
+.t{
+
+ position: absolute;
+top: 700px;
+  left:900px;
+  height: 200px;
+  font-family: Copperplate, Papyrus, fantasy, monospace;
+  height:500%;
+   width:25%;
+   text-shadow: 2px 2px #000000;
+    color: #F8BBD0;
+   
+   }
+   .sat{
+
+   	position: absolute;
+top: 1556px;
+  left:20px;
+  
+   }
+   
