@@ -63,7 +63,7 @@ top: 100px;
 .Comentario{
 
  position: absolute;
-top: 900px;
+top: 2500px;
   left:900px;
   height: 200px;
   font-family: Copperplate, Papyrus, fantasy, monospace;
@@ -75,7 +75,7 @@ top: 900px;
 .t{
 
  position: absolute;
-top: 800px;
+top: 2000px;
   left:900px;
   height: 200px;
   font-family: Copperplate, Papyrus, fantasy, monospace;
